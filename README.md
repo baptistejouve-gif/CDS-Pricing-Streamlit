@@ -15,10 +15,10 @@ Ce projet permet de calculer le Mark-to-Market simplifié d’un CDS à partir d
 L’application affiche également :
 
 - Le taux de hasard implicite
-- La valeur actuelle de la jambe de prime
-- La valeur actuelle de la jambe de protection
-- Le Mark-to-Market pour l’acheteur de protection
-- Les courbes de survie et de défaut
+- La valeur actuelle de la prime
+- La valeur actuelle de la protection
+- Le Mark-to-Market pour l’acheteur du CDS
+- Les courbes de survie et de défaut du produit
 - Un échéancier détaillé des cashflows
 
 ## Technologies utilisées

@@ -23,12 +23,11 @@ The application also displays:
 
 # Launch the Application
 
-1. Open a Python environment (VS Code, Anaconda Prompt, or Terminal).
-
-2. Install the dependencies:
-
+```bash
 pip install -r requirements.txt
-
-3. Launch the application:
-
 streamlit run app.py
+```
+
+## Author
+
+Baptiste Jouve
